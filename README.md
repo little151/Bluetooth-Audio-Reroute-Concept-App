@@ -1,4 +1,10 @@
 # SoundSplitter
+![C](https://img.shields.io/badge/C-Programming%20Language-blue)
+![C++](https://img.shields.io/badge/C++-Programming%20Language-orange)
+![Dart](https://img.shields.io/badge/Dart-Programming%20Language-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-Programming%20Language-purple)
+![CMake](https://img.shields.io/badge/CMake-Build%20System-red)
+![Swift](https://img.shields.io/badge/Swift-Programming%20Language-orange)
 
 **SoundSplitter** is an innovative mobile application designed to enhance the audio experience by allowing users to route sound from different apps to specific audio outputs. With SoundSplitter, you can enjoy your favorite music on Bluetooth earphones while ensuring other app sounds are played through the device's speaker. This creates a seamless and personalized audio experience, especially for users who multitask with various apps.
 
